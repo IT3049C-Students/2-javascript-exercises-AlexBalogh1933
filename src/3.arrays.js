@@ -12,7 +12,11 @@ function indexOf(arr, item) {
 // Sum: you should be able to sum the items of an array
 // Example: arr = [1,2,3]   =>  6
 function sum(arr) {
-  return ;
+  total = 0
+  for (let i = 0; i < arr.length; i += 1 ){
+    total += arr[i];
+  }
+  return total;
 }
 
 // Filter: Should filter out all instances of a value from an array
