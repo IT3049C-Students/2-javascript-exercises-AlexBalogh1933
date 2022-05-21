@@ -8,7 +8,7 @@
  */
 function fizzBuzz(num) {
   if (num % 5 == 0 && num % 3 == 0){
-    return "fizzBuzz"
+    return "fizzbuzz"
   }
   else if (num % 3 == 0){
     return "fizz"
@@ -17,10 +17,10 @@ function fizzBuzz(num) {
     return "buzz"
   }
   else if(isNaN(num)){
-    return num
+    return false
   }
   else {
-    return false
+    return num
   }
 }
 
