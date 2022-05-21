@@ -17,7 +17,7 @@ const personObject = {
     return this.first_name + " " + this.last_name;
   },
   introduction: function() {
-    return "Hello " + this.full_name + ". Welcome. You are the class of " + this.class_of.toFixed(0) + "."
+    return "Welcome "+ this.full_name() + ". You are the class of " + this.class_of.toFixed(0) + "."
   }
 };
 
