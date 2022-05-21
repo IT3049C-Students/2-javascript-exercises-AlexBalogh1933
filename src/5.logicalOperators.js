@@ -7,7 +7,7 @@ function or(a, b) {
   }
   else {
     return false;
-  }
+  };
 }
 
 //and: should return true only if both a and b are truthy
@@ -17,7 +17,7 @@ function and(a, b) {
   }
   else {
     return false;
-  }
+  };
 }
 
 module.exports = {

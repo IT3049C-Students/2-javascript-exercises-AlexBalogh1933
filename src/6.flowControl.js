@@ -20,7 +20,7 @@ function fizzBuzz(num) {
     return num
   }
   else {
-    return "false"
+    return false
   }
 }
 
