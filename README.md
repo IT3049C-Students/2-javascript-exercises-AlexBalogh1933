@@ -1,6 +1,6 @@
 JS Exercise
 ===================================
-![Assignment Checks](https://github.com/IT3049C/2.JS-Exercise/workflows/Assignment%20Checks/badge.svg)
+[![GitHub Classroom Workflow](https://s///github.com/IT3049C-Students/2-javascript-exercises-AlexBalogh1933/actions/workflows/classroom.yml/badge.svg)](https://s///github.com/IT3049C-Students/2-javascript-exercises-AlexBalogh1933/actions/workflows/classroom.yml)
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/2.JavaScript_Exercises/).
 
@@ -9,15 +9,16 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 ```md
 - [x] This task is complete.
 ```
-- [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] All Unit tests passed.
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 (For this assignment, there was 22 exercises checked by 68 automated checks)
 how many points out of 20 do you deserve on this assignment:
-
+20/20
 ## Self-Reflection:
 <!-- What did you learn that you found interesting -->
-
+It was cool going through the different tasks and thinking of one way to do something and then in the notes it said to do it with a different command which then made it easier. It was nice learning a lot of different methods of doing things.
 ### How long it took you to finish this?
+3 Hours
